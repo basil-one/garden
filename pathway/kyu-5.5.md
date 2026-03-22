@@ -46,5 +46,6 @@ Community:
 Highlights:
 
 * [August 2025 - Jack and Dad](https://youtu.be/gzBvYnZ0McA)
+* [March 2026 - Lila](https://youtu.be/EHdR0jcPvaE)
 
 [🌿🌀🎨](https://basil.one)
