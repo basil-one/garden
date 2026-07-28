@@ -3,7 +3,10 @@ title: garden
 description: ⚊🟢⚋
 ---
 
-* [Pathway](./pathway)
+*Pathway*
+
+* [Energy](./pathway)
+* [Cultivation](https://we-walk-together.basil.one)
 
 *Seeds*
 
