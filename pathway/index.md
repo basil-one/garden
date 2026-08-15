@@ -60,6 +60,8 @@ description: 🥋☯️⚡
 * [Pathway to Harmony - Butler Sensei](http://pathwaytoharmony.com)
 * [Okinaga breathing exercise](https://youtu.be/J_vvwSuISEk?si=NeWsMuTY0yjD4XOG)
 * [Traditional Aikido Gi](https://tozandoshop.com/products/essential-cotton-aikido-uniform-set)
+* [Yin-Yang Is Not About "Balance"｜What the Original Actually Says](https://www.youtube.com/watch?v=XMcdIV3vkXs)
+* [The Universe Doesn't Care About You — And That's the Best News](https://www.youtube.com/watch?v=kBu9DGIhRbc)
 
 ![...](./index.jpg)
 
