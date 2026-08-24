@@ -6,7 +6,7 @@ description: ⚊🟢⚋
 *Energy*
 
 * [Pathway](./pathway)
-* [Mustang](https://we-walk-together.basil.one)
+* [Reflections](./pathway#reflections)
 
 *Seeds*
 

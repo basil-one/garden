@@ -34,6 +34,10 @@ description: 🥋☯️⚡
 * [5.5 Kyu - Blue Level with Two Stripes](./kyu-5.5)
 * [5th Kyu - Blue Level with Three Stripes](./kyu-5)
 
+## Reflections
+
+* [We Walk Together - Don't Put a Saddle on a Mustang](./we-walk-together)
+
 ## Demonstrations
 
 * [March 2023 - Belt Testing - 8th Kyu: Jack and Dad](https://www.youtube.com/watch?v=VvirYiT8etI)
