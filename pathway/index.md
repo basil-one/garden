@@ -33,6 +33,7 @@ description: 🥋☯️⚡
 * [6th Kyu - Blue Level with One Stripe](./kyu-6)
 * [5.5 Kyu - Blue Level with Two Stripes](./kyu-5.5)
 * [5th Kyu - Blue Level with Three Stripes](./kyu-5)
+* [4.5 Kyu - Purple Level](./kyu-4.5)
 
 ## Reflections
 
