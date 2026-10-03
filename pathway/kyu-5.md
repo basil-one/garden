@@ -51,10 +51,7 @@ Munetsuki Kokyunage
 
 Community:
 
-COMING SOON
-
-Highlights:
-
-* COMING SOON
+![...](./kyu-5-community-2026.09-1.jpg)
+![...](./kyu-5-community-2026.09-2.jpg)
 
 [🌿🌀🎨](https://basil.one)
